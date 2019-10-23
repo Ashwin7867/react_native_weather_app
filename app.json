@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Weather App Ashwin",
+    "slug": "Weather",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "This is weather app which is developed using  React-Native and it consumes  the API at metaweather.com  .",
+    "githubUrl": "https://github.com/Ashwin7867/Weather_App"
+  }
+}
